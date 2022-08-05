@@ -1,2 +1,3 @@
 # UX-Redesign-AnkiDroid 
- Worked with Handa Huang
+Redesigned AnkiDroid with many different Job Story.
+Worked with Handa Huang.
